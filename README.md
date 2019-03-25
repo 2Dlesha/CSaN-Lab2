@@ -9,8 +9,8 @@
 
 Формат файла сsv 
 ----
-[super](может не быть)
-(un)cheked
+[super](может не быть) 
+(un)cheked 
 data1;data2;data3;
 ----
 
